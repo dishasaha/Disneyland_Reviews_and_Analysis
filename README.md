@@ -1,2 +1,3 @@
 # Disneyland_Reviews_and_Analysis
 Second Project for DSC 680 Applied Data Science
+Millions of visitors come to theme parks all across the world every year for vacation. The theme parks can receive thousands of reviews and feedback every month through various means and resources. For this project I am going to analyze a subset of the feedback received for the Disneyland Parks in California, Paris, and Hong Kong. Through this analysis I would be able to look through customer reviews and hope to find the top items the parks do well and some other things the parks could improve upon. Based on this analysis I would like to match up customer sentiment with their review rating and look to spot any outliers while also looking to predict review rating based on customer feedback.
